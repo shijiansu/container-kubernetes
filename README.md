@@ -9,6 +9,7 @@
 ![](https://img.shields.io/github/languages/code-size/shijiansu/docker-kubernetes)
 ![](https://img.shields.io/github/repo-size/shijiansu/docker-kubernetes)
 ![](https://img.shields.io/github/last-commit/shijiansu/docker-kubernetes?color=red)
+![](https://github.com/shijiansu/docker-kubernetes/workflows/ci%20build/badge.svg)
 
 --------------------------------------------------------------------------------
 
